@@ -1,6 +1,6 @@
 # expolog-site
 
-Public pages for the Expolog iOS app (support page and privacy policy), served by GitHub Pages.
+Public pages for the ExpoLog iOS app (support page and privacy policy), served by GitHub Pages.
 
 - Site: https://studiovarem-ui.github.io/expolog-site/
 - Privacy policy (EN): https://studiovarem-ui.github.io/expolog-site/privacy/
